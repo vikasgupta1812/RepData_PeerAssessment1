@@ -1,6 +1,6 @@
 # Source files
 # ============
+*.html
 *.Rdata     text
 *.Rmd       text
-*.R         text
 *.zip       binary
