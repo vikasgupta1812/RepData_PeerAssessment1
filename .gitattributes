@@ -1,0 +1,6 @@
+# Source files
+# ============
+*.Rdata     text
+*.Rmd       text
+*.R         text
+*.zip       binary
